@@ -1,0 +1,17 @@
+{
+    "user": "IllidanS4",
+    "repo": "YALP-MTA",
+    "dependencies": ["IllidanS4/YALP:v1.1"],
+    "resources": [
+        {
+            "name": "YALP-MTA.dll",
+            "platform": "windows",
+            "archive": false
+        },
+        {
+            "name": "YALP-MTA.so",
+            "platform": "linux",
+            "archive": false
+        }
+    ]
+}
